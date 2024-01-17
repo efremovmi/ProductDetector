@@ -1,7 +1,0 @@
-{
-  "PATH_TO_MODEL": "ai_models_hub/big_yolov8_model.pt",
-  "HOST": "localhost",
-  "PORT": 5000,
-  "PATH_TO_BUFFER": "buffer",
-  "THRESHOLD": 0.82
-}

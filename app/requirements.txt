@@ -1,4 +1,12 @@
 fastapi==0.109.0
 sqlalchemy==2.0.25
 python-multipart==0.0.6
-ultralytics
+torch==2.1.2
+ultralytics==8.1.2
+uvicorn==0.25.0
+python-jose==3.3.0
+passlib==1.7.4
+loguru==0.7.2
+psycopg2-binary==2.9.9
+bcrypt==4.0.1
+click==8.1.7

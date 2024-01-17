@@ -1,0 +1,10 @@
+{
+  "PATH_TO_MODEL": "../ai_models_hub/big_yolov8_model.pt",
+  "HOST": "localhost",
+  "PORT": 5000,
+  "PATH_TO_BUFFER": "buffer",
+  "THRESHOLD": 0.82,
+
+  "DATABASE_DSN": "postgresql://admin:1q2w3e4r5t@localhost:5432/detector",
+  "TOKEN_KEY":  "detector_app_16012024193200"
+}

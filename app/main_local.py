@@ -3,8 +3,8 @@ from fastapi import FastAPI
 
 from app.backend.config import app_config
 from app.const import HOST, PORT
-from const import OPEN_API_DESCRIPTION, OPEN_API_TITLE
-from routers.v1 import (
+from app.const import OPEN_API_DESCRIPTION, OPEN_API_TITLE
+from app.routers.v1 import (
     product,
     auth,
     config,
